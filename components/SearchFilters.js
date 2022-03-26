@@ -27,8 +27,9 @@ export default function SearchFilters() {
     const values = getFilterValues(filterValues)
 
     values.forEach((item) => {
-      // updating the query
+      // select multiable parameters at once
       if(item.value && filterValues?.[item.name]) {
+        // updating the query .. add it to the query
         query[item.name] = item.value
       }
     })

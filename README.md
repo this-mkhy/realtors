@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Realtors
+Real estate app to make it easy for users to search for homes for sale and rent.
 
+## Technologies
+* ReactJs
+* NextJs
+* ChakraUi
+* Rapid API
+
+## Screenshots :camera_flash:
+
+![home 1](https://i.imgur.com/n0rtT5N.png "Home Page 1")
+![home 2](https://i.imgur.com/PMaSJRb.png "Home Page 2")
+![search](https://i.imgur.com/AMGgi5r.png "Search Page")
+![detail](https://i.imgur.com/m2t8ooO.png "Detail Page")
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -32,3 +47,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
