@@ -7,12 +7,16 @@ Real estate app to make it easy for users to search for homes for sale and rent.
 * ChakraUi
 * Rapid API
 
+## Live Preview
+[Realtors](https://realtors-this-mkhy.vercel.app/)
 ## Screenshots :camera_flash:
 
 ![home 1](https://i.imgur.com/n0rtT5N.png "Home Page 1")
+***
 ![home 2](https://i.imgur.com/PMaSJRb.png "Home Page 2")
+***
 ![search](https://i.imgur.com/AMGgi5r.png "Search Page")
-![detail](https://i.imgur.com/m2t8ooO.png "Detail Page")
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
